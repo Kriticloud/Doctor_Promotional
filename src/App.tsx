@@ -532,7 +532,7 @@ export default function App() {
             target="_blank"
             rel="noreferrer"
           >
-            WhatsApp 74869 6050 <Arrow diagonal />
+            WhatsApp +91 74869 6050 <Arrow diagonal />
           </a>
         </div>
         <div className="section-wrap footer-legal">
