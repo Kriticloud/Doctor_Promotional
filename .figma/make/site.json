@@ -1,0 +1,12 @@
+{
+  "title": "Carefolio | A Beautiful Website Made for Doctors",
+  "description": "Carefolio helps Indian doctors create a beautiful professional website. Explore doctor website design, setup and hosting plans starting at ₹599.",
+  "language": "en-IN",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
