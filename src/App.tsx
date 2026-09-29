@@ -1,6 +1,6 @@
 import { useState } from "react"
 
-const WHATSAPP_NUMBER = "91748696050"
+const WHATSAPP_NUMBER = "917483696050"
 
 const whatsappLink = (message: string) =>
   `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`
@@ -532,7 +532,7 @@ export default function App() {
             target="_blank"
             rel="noreferrer"
           >
-            WhatsApp +91 74869 6050 <Arrow diagonal />
+            WhatsApp +91 74836 96050 <Arrow diagonal />
           </a>
         </div>
         <div className="section-wrap footer-legal">
