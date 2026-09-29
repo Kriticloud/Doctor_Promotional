@@ -4,9 +4,9 @@ A React + Vite website for presenting doctor portfolio and setup plans.
 
 ## Publish on GitHub Pages
 
-1. Create a GitHub repository and push this project to its `main` branch.
+1. Merge this pull request into `main`.
 2. In the repository, open **Settings → Pages** and set the build and deployment source to **GitHub Actions**.
-3. The included GitHub Actions workflow builds the site and publishes it on each push to `main`.
+3. The included GitHub Actions workflow builds and publishes the site on each push to `main`.
 4. In **Settings → Pages → Custom domain**, enter `e11event.me`. The `public/CNAME` file is included in the published site.
 5. In Namecheap, open **Domain List → Manage → Advanced DNS** and add these records if the domain uses Namecheap BasicDNS:
 
@@ -16,7 +16,7 @@ A React + Vite website for presenting doctor portfolio and setup plans.
    | A | `@` | `185.199.109.153` |
    | A | `@` | `185.199.110.153` |
    | A | `@` | `185.199.111.153` |
-   | CNAME | `www` | `kriti-stack.github.io` |
+   | CNAME | `www` | `kriticloud.github.io` |
 
    If the domain is using Namecheap hosting nameservers instead, manage the DNS records where that DNS zone is hosted. Avoid duplicate `@` records that point to other servers.
 
